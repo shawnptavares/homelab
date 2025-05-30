@@ -1,4 +1,4 @@
-## 🌐 Networking Overview (Standalone)
+## 🌐 Networking Overview
 
 The homelab uses VLAN segmentation to isolate lab devices from the main home network, while still allowing internet access through our ISP Gateway. This networking section governs the entire lab topology and will be expanded as new hosts and services are added.
 
